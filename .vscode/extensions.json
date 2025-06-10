@@ -1,6 +1,10 @@
 {
   "recommendations": [
+<<<<<<< HEAD
     "editorconfig.editorconfig",
     "streetsidesoftware.code-spell-checker"
+=======
+    "editorconfig.editorconfig"
+>>>>>>> caafeca75 (file formating)
   ]
 }
